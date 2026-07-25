@@ -6,9 +6,11 @@ Analyse des indicateurs de développement liés à l'éducation (alphabétisatio
 
 | Fichier | Description |
 |---|---|
+| `Africa_education_raw.csv` | Jeu de données brutes collectées
 | `Africa_Education_Dataset.xlsx` | Jeu de données nettoyé (source pour Power BI) — onglets `Data`, `Data_Dictionary`, `Region_Summary`, `Cleaning_Log` |
 | `Visusalisations.pbix` | Tableau de bord Power BI interactif (3 pages) |
 | `Rapport_Final_Education_Afrique.pdf` | Rapport final : objectif, dataset, nettoyage, méthodologie, résultats, insights, recommandations |
+| `Script_De_Nettoyage` | script python de nettoyages des données
 
 
 ## Aperçu du tableau de bord
