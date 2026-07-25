@@ -1,0 +1,55 @@
+Country,Region,Population_2023,GDP_PPP_per_capita_USD,Literacy_Rate_Total_pct,Literacy_Rate_Male_pct,Literacy_Rate_Female_pct,Literacy_Gender_Gap_pp,Literacy_Year,Edu_Spending_pct_GDP,Primary_Enrollment_pct_gross,Secondary_Enrollment_pct_gross
+Algeria,North Africa,46164219,19677,81.4,87.4,75.3,12.1,2018,5.61,105.75,105.16
+Angola,Southern Africa,36749906,10446,71.1,82.0,60.7,21.3,2015,2.33,,
+Benin,West Africa,14111034,5088,42.4,54.0,31.1,22.9,2018,3.38,108.04,
+Botswana,Southern Africa,2480244,22039,88.5,88.0,88.9,0.9,2015,8.06,109.27,
+Burkina Faso,West Africa,23025776,3227,39.3,49.2,31.0,18.2,2018,5.28,82.26,29.99
+Burundi,East Africa,13689450,1031,68.4,76.3,61.2,15.1,2017,4.82,,
+Cameroon,Central Africa,28372687,5993,77.1,82.6,71.6,11.0,2018,2.62,112.49,
+Cape Verde,West Africa,522331,13313,86.8,91.7,82.0,9.7,2015,4.67,102.97,
+Central African Republic,Central Africa,5152421,1468,37.4,49.5,25.8,23.7,2018,2.12,,
+Chad,Central Africa,19319064,3458,22.3,31.3,14.0,17.3,2016,2.54,87.03,23.49
+Comoros,East Africa,850387,4222,58.8,64.6,53.0,11.6,2018,2.43,98.07,
+Congo,Central Africa,6182885,6712,80.3,86.1,74.6,11.5,2018,2.95,,
+DR Congo,Central Africa,105789731,2144,77.0,88.5,66.5,22.0,2016,3.0,,
+Djibouti,East Africa,1152944,10166,,,,,,3.8,,
+Egypt,North Africa,114535772,23321,71.2,76.5,65.5,11.0,2017,3.9,89.51,84.83
+Equatorial Guinea,Central Africa,1847549,19061,95.3,97.4,93.0,4.4,2015,0.6,,
+Eritrea,East Africa,3470390,,76.6,84.4,68.9,15.5,2018,2.1,89.73,
+Eswatini,Southern Africa,1230506,14244,88.4,88.3,88.5,0.2,2018,6.31,117.2,
+Ethiopia,East Africa,128691692,4974,51.8,57.2,44.4,12.8,2017,3.74,84.63,
+Gabon,Central Africa,2484789,25847,84.7,85.9,83.4,2.5,2018,2.21,,
+Gambia,West Africa,2697845,3865,50.8,61.8,41.6,20.2,2015,2.7,97.28,
+Ghana,West Africa,33787914,9116,79.0,83.5,74.5,9.0,2018,2.91,98.23,75.72
+Guinea,West Africa,14405465,5177,39.6,54.4,27.7,26.7,2018,1.99,,
+Guinea-Bissau,West Africa,2153339,3405,59.9,71.8,48.3,23.5,2015,2.0,,
+Ivory Coast,West Africa,31165654,8672,89.9,93.1,86.7,6.4,2019,3.43,86.45,65.31
+Kenya,East Africa,55339003,8020,81.5,85.0,78.2,6.8,2018,3.96,98.55,
+Lesotho,Southern Africa,2311472,3300,79.4,70.1,88.3,-18.2,2015,6.69,83.63,
+Liberia,West Africa,5493031,2095,48.3,62.7,34.1,28.6,2017,2.28,66.59,
+Libya,North Africa,7305659,18749,91.0,96.7,85.6,11.1,2015,2.3,,
+Madagascar,East Africa,31195932,2106,76.7,78.4,75.1,3.3,2018,3.14,132.89,
+Malawi,Southern Africa,21104482,1797,62.1,69.8,55.2,14.6,2015,3.3,126.59,
+Mali,West Africa,23769127,3665,35.5,46.2,25.7,20.5,2018,4.04,,
+Mauritania,West Africa,5022441,9280,53.5,63.7,43.4,20.3,2017,2.65,,
+Mauritius,Southern Africa,1273588,34830,91.3,93.4,89.4,4.0,2018,4.57,,90.72
+Morocco,North Africa,37712505,12336,73.8,83.3,64.6,18.7,2018,6.02,116.55,89.98
+Mozambique,Southern Africa,33635160,1699,60.7,72.6,50.3,22.3,2017,6.16,119.16,
+Namibia,Southern Africa,2963095,12666,91.5,91.6,91.4,0.2,2018,9.04,120.34,81.96
+Niger,West Africa,26159867,2232,35.1,43.6,26.7,16.9,2018,4.1,66.25,19.87
+Nigeria,West Africa,227882945,9994,62.0,71.3,52.7,18.6,2018,0.35,,
+Rwanda,East Africa,13954471,4523,73.2,77.6,69.4,8.2,2018,4.92,148.75,48.79
+Sao Tome and Principe,Central Africa,230871,6711,92.8,96.2,89.5,6.7,2018,5.16,,
+Senegal,West Africa,18077573,5565,51.9,64.8,39.8,25.0,2017,5.99,84.27,
+Seychelles,East Africa,127951,35855,95.9,95.4,96.4,-1.0,2018,4.74,,
+Sierra Leone,West Africa,8460512,3909,43.2,51.6,39.8,11.8,2018,6.79,163.17,
+Somalia,East Africa,18358615,1956,39.0,,,,,1.3,,
+South Africa,Southern Africa,63212384,16740,95.0,95.5,94.5,1.0,2019,6.15,102.4,
+South Sudan,East Africa,11483374,1540,34.5,40.3,28.9,11.4,2018,1.6,,
+Sudan,North Africa,50042791,2451,60.7,65.4,56.1,9.3,2018,2.0,,
+Tanzania,East Africa,66617606,4607,77.9,83.2,73.1,10.1,2015,3.26,90.62,
+Togo,West Africa,9304337,3757,66.5,80.0,55.1,24.9,2019,3.8,118.42,
+Tunisia,North Africa,12200431,15833,81.8,89.6,74.2,15.4,2015,6.73,104.06,
+Uganda,East Africa,48656601,4192,76.5,82.7,70.8,11.9,2018,2.55,,
+Zambia,Southern Africa,20723965,4572,86.7,90.6,83.1,7.5,2018,3.58,,56.79
+Zimbabwe,Southern Africa,16340822,8443,86.5,88.5,84.6,3.9,2015,2.1,93.17,
